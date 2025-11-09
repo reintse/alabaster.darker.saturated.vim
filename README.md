@@ -15,7 +15,7 @@ PLEASE NOTE THAT I DID NOT MODIFY ANYTHING OTHER THAN THE COLOR PALETTE OF SDERE
 ![alabaster-darker-saturated.vim](/preview/alabaster-darker-saturated.png)
 
 
-#The Font used in the preview is [mononoki by madmalik](https://madmalik.github.io/mononoki/)
+# The Font used in the preview is [mononoki by madmalik](https://madmalik.github.io/mononoki/)
 
 ## Requirements
 * Terminal with true color support, such as Kitty or Alacritty (or GUI Vim/Neovim)
