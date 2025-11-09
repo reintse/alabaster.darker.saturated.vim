@@ -12,7 +12,7 @@ Another inspiration for the contrast was [Ethan Schoonover's Solarized](https://
 PLEASE NOTE THAT I DID NOT MODIFY ANYTHING OTHER THAN THE COLOR PALETTE OF SDEREV'S DARK THEME AND I CLAIM NO CREDIT FOR ANYTHING OTHER THAN THE NEW COLOR SCHEME
 
 ### preview:
-![alabaster-darker-saturated.vim](ttps://github.com/reintse/alabaster.darker.saturated.vim/blob/main/preview/alabaster-darker-saturated.png)
+![alabaster-darker-saturated.vim](/preview/alabaster-darker-saturated.png)
 
 ## Requirements
 * Terminal with true color support, such as Kitty or Alacritty (or GUI Vim/Neovim)
