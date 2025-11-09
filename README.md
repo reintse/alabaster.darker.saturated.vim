@@ -30,5 +30,5 @@ Add to your `.vimrc`:
 syntax enable
 set termguicolors
 
-colorscheme alabaster-darker-saturated.vim
+colorscheme alabaster-darker-saturated
 ```
